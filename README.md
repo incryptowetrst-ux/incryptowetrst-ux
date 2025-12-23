@@ -2,7 +2,7 @@
 
 ## Software Developer
 
-I work with C++, Python and JavaScript, do web scraping and data analysis. Have experience with competitive programming and mathematical problem-solving.
+I work with C++, Python and JavaScript, do web scraping and data analysis. Have experience with competitive programming and mathematical problem-solving. My email: incryptowetrst@gmail.com
 
 ## Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=00599C)
@@ -14,5 +14,4 @@ I work with C++, Python and JavaScript, do web scraping and data analysis. Have 
 
 ## Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=FF00000)](https://t.me/ncrptwtrst1)
-[![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](malito:incryptowetrst@gmail.com)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@ncrpwtrst)
